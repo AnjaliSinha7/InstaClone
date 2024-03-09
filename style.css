@@ -12,6 +12,16 @@
     text-align: center;
     display: flex;
     flex-direction: column;
+    float:left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+    
+    
+    
 }
 .logo{
     display: flex;
@@ -20,6 +30,7 @@
     max-width: 100%;
     height: auto;
     align-items: center;
+    
 }
 .instagram{
    width: 220px;;
@@ -121,4 +132,88 @@
     font-feature-settings: normal;
     font-weight: 600;
     color: rgb(24, 119, 242);
+}
+.text{
+    color:rgb(133, 133, 133);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ishu{
+    display:flex;
+    flex-direction:row;
+}
+.sign{
+    padding: 5px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-feature-settings: normal;
+    font-weight: 600;
+    color: rgb(24, 119, 242);
+}
+.orr{
+    color:rgb(133, 133, 133);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 7px ;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.up{
+    padding: 5px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-feature-settings: normal;
+    font-weight: 600;
+    color: rgb(24, 119, 242);
+}
+.ishii{
+    display:flex;
+    flex-direction:row;
+}
+.get{
+    display: flex;
+    flex-direction: bottom;
+    justify-self: first baseline;
+    max-width: 10px;
+    height: 50;
+    align-items: flex-start;
+   padding: 50px;
+    margin-bottom: auto;
+    margin-right: 100px;
+    padding-left: 10px;
+    margin-left:auto
+}
+.playstore{
+  width: 160px;;
+}
+.microsoft{
+    display: flex;
+    flex-direction: left;
+    justify-self: flex-end;
+    max-width: 10px;
+    height: 35;
+    align-items: flex-end;
+    margin-left: auto;
+    margin-bottom: auto; 
+    padding: 20px;
+    padding-left: -20;
+    left: auto;
+
+    
+}
+.micro{
+    width: 120px;
+}
+.box{
+    color:rgb(133, 133, 133);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 200x;
+    padding-right: 180px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    height: auto;
+    width: 500px;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }
